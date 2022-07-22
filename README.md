@@ -9,16 +9,29 @@ We analyzed NYC bike-sharing data to show investors how popular the bike-sharing
 -	Jupyter Notebook, Tableau  
 ## Results
 Bike repairs based on BikeId: 
+
 ![Bike-repairs](https://github.com/NickFoley47/Bikesharing/blob/main/pics/Bike-repairs.PNG)
+
 Checkout timers for Gender: 
+
 ![Checkout-gender](https://github.com/NickFoley47/Bikesharing/blob/main/pics/Checkout-gender.PNG)
+
 Checkout times for Users:
+
 ![Checkout-user](https://github.com/NickFoley47/Bikesharing/blob/main/pics/Checkout-user.PNG) 
+
 Number of Rides:
+
 ![Num-rides]( https://github.com/NickFoley47/Bikesharing/blob/main/pics/Num-rides.PNG)
+
 Trips by Gender and customer type for Weekdays:
+
 ![trips-customer-type]( https://github.com/NickFoley47/Bikesharing/blob/main/pics/trips-customer-type.PNG)
+
 Trips by Gender Weekday per Hour: 
+
 ![trips-gender]( https://github.com/NickFoley47/Bikesharing/blob/main/pics/trips-gender.PNG)
+
 Trips by Weekday per Hour:
+
 ![trips-weekday](https://github.com/NickFoley47/Bikesharing/blob/main/pics/trips-weekday.PNG)
