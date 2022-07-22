@@ -5,7 +5,7 @@ We analyzed NYC bike-sharing data to show investors how popular the bike-sharing
 
 ## Resources 
 
-[Link to dashboard]: (“https://public.tableau.com/app/profile/nick.foley3714/viz/NYC_Citibike_Challenge_16583692639070/TheStoryofNYCData?publish=yes”)
+[link to dashboard](https://public.tableau.com/app/profile/nick.foley3714/viz/NYC_Citibike_Challenge_16583692639070/TheStoryofNYCData?publish=yes)
 
 -	Jupyter Notebook, Tableau  
 ## Results
