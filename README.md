@@ -25,7 +25,7 @@ Number of Rides:
 
 ![Num-rides]( https://github.com/NickFoley47/Bikesharing/blob/main/pics/Num-rides.PNG)
 
-Trips by Gender and customer type for Weekdays:
+Trips by Gender and Customer type for Weekdays:
 
 ![trips-customer-type]( https://github.com/NickFoley47/Bikesharing/blob/main/pics/trips-customer-type.PNG)
 
