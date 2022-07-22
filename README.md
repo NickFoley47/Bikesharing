@@ -2,9 +2,10 @@
 
 ## Overview of the analysis
 We analyzed NYC bike-sharing data to show investors how popular the bike-sharing program in New York was. Our goal is to get an investor for our bike-sharing program in Des Moines and visualizing the data from New York will allow us to show the success of the program. 
+
 ## Resources 
 
-[Link to dashboard]: (https://public.tableau.com/app/profile/nick.foley3714/viz/NYC_Citibike_Challenge_16583692639070/TheStoryofNYCData?publish=yes)
+[Link to dashboard]: (“https://public.tableau.com/app/profile/nick.foley3714/viz/NYC_Citibike_Challenge_16583692639070/TheStoryofNYCData?publish=yes”)
 
 -	Jupyter Notebook, Tableau  
 ## Results
